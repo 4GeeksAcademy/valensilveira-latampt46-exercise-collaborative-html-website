@@ -1,6 +1,13 @@
+<!-- Oscar -->
+## Oscar: Services y first_heading
+
+<!-- Jazmin -->
+## Oscar: Nav y Tagline
+
 <!-- hide -->
 # Sitio Web colaborativo (Git collaboration)
 <!-- endhide -->
+
 
 Practica tus habilidades en Git mientras desarrollas un sitio web típico.
 
