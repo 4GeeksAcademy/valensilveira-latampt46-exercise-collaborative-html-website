@@ -1,8 +1,14 @@
 <!-- Oscar -->
 ## Oscar: Services y first_heading
 
+<!-- Valentina -->
+## Valentina: Contact y Footer
+
 <!-- Jazmin -->
-## Oscar: Nav y Tagline
+## Jazmin: Nav y Tagline
+
+<!-- Salvador -->
+## Salvador: Portfolio
 
 <!-- hide -->
 # Sitio Web colaborativo (Git collaboration)

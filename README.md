@@ -1,6 +1,15 @@
 <!-- Oscar -->
 ## Oscar: Services y first_heading
 
+<!-- Valentina -->
+## Valentina: Contact y Footer
+
+<!-- Jazmin -->
+## Jazmin: Navbar y tagline
+
+<!-- Salvador -->
+## Salvador: Portfolio
+
 <!-- hide -->
 # Making a website as a team (Git collaboration)
 <!-- endhide -->
